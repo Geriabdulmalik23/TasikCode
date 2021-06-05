@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_blog">Blog</string>
+    <string name="menu_event">Event</string>
+    <string name="menu_account">Baraya</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_article">Artikel Terbaru</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mLinearCategory"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_category_white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/mTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/montserrat_reguler"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="-"
+        android:textColor="@color/black_100"
+        android:textSize="10dp" />
+</LinearLayout>
